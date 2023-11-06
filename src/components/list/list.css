@@ -1,0 +1,5 @@
+.todo-list{
+    text-indent: 80px;
+    list-style-type: decimal;
+    list-style-position: inside;
+}

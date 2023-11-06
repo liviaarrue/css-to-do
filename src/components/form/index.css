@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+}
+
+input{
+  border-radius: 10px;
+  border-color: rgb(85, 138, 245);
+}
+
+button{
+    border-radius: 10px;
+    border-color: rgb(85, 138, 245)
+}
